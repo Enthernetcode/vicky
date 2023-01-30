@@ -299,7 +299,7 @@
   }
   .flat-service .service-box {
     margin-bottom: 30px;
-    background-color: withe;
+    background-color: pink;
   }
   .side-bar {
     margin-top: 60px;
@@ -666,7 +666,7 @@
   }
   .flat-development .wrap-development {
     padding: 40px 30px;
-    background-color: pink;
+    background-color: withe;
     opacity: 90%;
   }
   .flat-skill {
@@ -688,7 +688,7 @@
   }
   .flat-testimonial .wrap-testimonial {
     margin-bottom: 90px;
-    background-color: pink;
+    background-color: blue;
   }
   .flat-testimonial .wrap-testimonial.style-mobi {
     margin-bottom: 0px;
