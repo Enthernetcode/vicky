@@ -252,8 +252,8 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    color: grey;
-    justify-content: space-aroun
+    margin-bottom: 40px;
+    justify-content: space-around;
 }
 .cool .tel {
     margin: 4px
